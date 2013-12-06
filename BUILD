@@ -30,6 +30,10 @@ Install gstreamer & plugins view MacPorts:
 
 sudo port install gst-ffmpeg gst-plugins-bad gst-plugins-base gst-plugins-gl gst-plugins-gl gst-plugins-gl gst-plugins-good gst-plugins-ugly gst-rtsp-server gstreamer py27-gst-python
 
+well - that use to work, some point in 2013 it changed to:
+
+sudo port install gstreamer010-gst-ffmpeg gstreamer010-gst-plugins-bad gstreamer010-gst-plugins-base gstreamer010-gst-plugins-gl gstreamer010-gst-plugins-gl gstreamer010-gst-plugins-gl gstreamer010-gst-plugins-good gstreamer010-gst-plugins-ugly gstreamer010-gst-rtsp gstreamer010 py27-gst-python py27-pygtk py-pygtk
+
 - install PyCCN
 
 
